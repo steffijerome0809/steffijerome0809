@@ -1,7 +1,6 @@
 ### Hello 👋
 
-### I am Steffi Jerome, a Full Stack Web Developer. You can reach me on [linkedin](https://www.linkedin.com/in/steffi-jerome-052213188/) and can view [my portfolio](https://steffijerome0809.github.io/PorfolioPage/)
-
+### I am Steffi Jerome, a Full Stack Web Developer. You can reach me on [linkedin](https://www.linkedin.com/in/steffi-jerome-052213188/) 
 ### Languages and Tools:
 
 <p align="center">
